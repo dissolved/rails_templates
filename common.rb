@@ -1,8 +1,8 @@
-# =========================
+# ===========================================================================================
 # common.rb
 #
-# Usage: rails <name app> -m $RAILS_TEMPLATES_PATH/base.rb
-# =========================
+# Usage: rails <name app> -m http://github.com/dissolved/rails_templates/raw/master/common.rb
+# ===========================================================================================
 
 # set any variables needed
 app = @root.split('/').last
